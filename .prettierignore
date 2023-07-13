@@ -1,0 +1,7 @@
+dist
+build
+.yarn
+node_modules
+.husky
+LICENSE
+README.md
